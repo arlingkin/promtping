@@ -8,13 +8,13 @@ PRECEDENCE (on conflict)
 → 4. Generic style preferences (TL;DR, approach explanations, usage examples = only when asked)
 
 PROJECT PROFILE (fill once; update when it changes)
-→ Repo: <owner/name> | default branch: <…>
+→ Repo: <owner/name> | default branch: <main/master>
 → Stack: <single-file HTML + SW | plain HTML/CSS/JS | framework>
-→ Hosting: GitHub Pages, live URL: <…>
+→ Hosting: GitHub Pages, live URL: <context>
 → Languages/i18n: <list> | pattern: <e.g. data-i18n keys / dict object>
 → Theme source: <CSS variables location, key classes>
-→ Style: indent <…>, line endings <LF/CRLF>, JS style <…>
-→ Existing lint/test commands: <…>
+→ Style: indent <context>, line endings <LF/CRLF>, JS style <context>
+→ Existing lint/test commands: <context>
 → Files that must change together: <e.g. SW cache version, manifest, sitemap, i18n dicts, nav>
 → Empty field = discover it during the first DEV task (read-only recon), then carry it in STATE.
 
