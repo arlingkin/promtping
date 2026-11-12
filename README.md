@@ -1,32 +1,29 @@
 # promtping
 
-A small collection of reusable AI prompt templates designed to help you get more consistent and structured responses from AI assistants.
+Reusable prompt templates for getting clearer, more consistent, and more efficient results from AI assistants.
 
-This repository includes prompt files for both software development and general-purpose use, with a focus on clarity, efficiency, and instruction-following.
+Choose a prompt, paste it into your AI tool, then add your task and project context. The templates emphasize precise instructions, focused changes, and practical verification—adapt them to fit your workflow.
 
-## What is included?
+## Prompt library
 
-- `devmodec.md` — development-focused prompt for coding tasks in Indonesian
-- `generalpc.md` — general-purpose prompt for broader AI usage in Indonesian
-- `generalv2pctop.md` — updated general prompt version 2 in Indonesian
-- `genpc3topen.md` — general prompt version 3 in English
+| Prompt | Best for | Language |
+| --- | --- | --- |
+| [`genpc3topen.md`](genpc3topen.md) | General use and software development | English |
+| [`generalv2pctop.md`](generalv2pctop.md) | General use and software development | Indonesian |
+| [`generalpc.md`](generalpc.md) | General-purpose AI assistance | Indonesian |
+| [`devmodec.md`](devmodec.md) | Development-focused AI assistance | Indonesian |
+| [`static website project hosted on GitHub.md`](static%20website%20project%20hosted%20on%20GitHub.md) | Building and maintaining a static website on GitHub | English |
+| [`template use for projects.md`](template%20use%20for%20projects.md) | A reusable project-work prompt template | English |
 
-## Why use these prompts?
+## Quick start
 
-- Better instruction clarity for AI assistants
-- More consistent output style
-- Faster onboarding for repetitive AI workflows
-- Useful for coding, writing, planning, and general Q&A
+1. Open the prompt that best matches your task.
+2. Copy it into your AI assistant's instructions or chat.
+3. Add the relevant project details, goal, and constraints.
+4. Review and adapt the result before using it.
 
-## How to use
+Prompts are starting points, not guarantees. Specific context and clear goals lead to more useful responses.
 
-1. Open the prompt file that matches your use case.
-2. Copy the text into your preferred AI tool.
-3. Adjust the wording if needed for your project or workflow.
-4. Reuse the prompt as a base whenever you need a structured response.
+## License
 
-## Notes
-
-These prompts are intended to be adapted and customized. They work best when paired with specific task context, project details, or desired output constraints.
-
-This project is licensed under the MIT License.
+Released under the [MIT License](LICENSE).
